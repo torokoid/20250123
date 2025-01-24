@@ -147,7 +147,7 @@ p.note { display: none; }
 <h2><span class="yellow">ヒロインはナチスに超能力開発された日系三世の女性</span></h2>
 <a href="20250123_005.JPG" target="_blank"><img src="20250123_005.JPG" alt="サンプル画像" width="900" /></a>
 
-<h2><span class="yellow">映画の作成は、今渦中のフジテレビ<br>画像クリックで映画のあらすじ説明に飛びます ↓</span></h2>
+<h2><span class="yellow">映画の作成は、いま渦中のフジテレビ<br>画像クリックで映画のあらすじ説明に飛びます ↓</span></h2>
 <a href="https://ja.wikipedia.org/wiki/ローレライ_(映画)" target="_blank"><img src="20250123_006.JPG" alt="サンプル画像" width="900" /></a>
 
 <h2><span class="yellow">今日もお洗濯物は青空の下であっという間に乾きます</span></h2>
