@@ -144,10 +144,10 @@ p.note { display: none; }
 <h2><span class="yellow">映画の作成は、今渦中のフジテレビ<br>画像クリックで映画のあらすじ説明に飛びます ↓</span></h2>
 <a href="https://ja.wikipedia.org/wiki/ローレライ_(映画)" target="_blank"><img src="20250123_006.JPG" alt="サンプル画像" width="900" /></a>
 
-<h2><span class="yellow">お洗濯物は青空の下であっという間に乾きます</span></h2>
+<h2><span class="yellow">今日もお洗濯物は青空の下であっという間に乾きます</span></h2>
 <a href="20250123_007.JPG" target="_blank"><img src="20250123_007.JPG" alt="サンプル画像" width="900" /></a>
 
-<h2><span class="yellow">木に水を上げたら虹が見えました<br>画像クリックで動画再生します ↓</span></h2>
+<h2><span class="yellow">夕陽の中で木に水を上げたら虹が見えました<br>画像クリックで動画再生します ↓</span></h2>
 <a href="https://youtube.com/shorts/Ub1OG8rTN-Q?feature=share" target="_blank"><img src="20250123_008.JPG" alt="サンプル画像" width="900" /></a>
 
 <h2><span class="yellow">上りをクリアしたちびちゃん、今日は下りの練習</span></h2>
