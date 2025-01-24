@@ -138,7 +138,7 @@ p.note { display: none; }
 <h2><span class="yellow">めんどりは今日も20羽のひな連れてお散歩</span></h2>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/c6wYridOitc?si=R5bKt0IujRpbh-4R" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
 
-<h2><span class="yellow">アヒル一家のお散歩は白いオスが扇動してました</span></h2>
+<h2><span class="yellow">アヒル一家のお散歩は白いオスが先導してました</span></h2>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yOZjR_hODlw?si=dnfFZMzArNF0d6nw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
 
 <h2><span class="yellow">修理したPCで映画鑑賞</span></h2>
